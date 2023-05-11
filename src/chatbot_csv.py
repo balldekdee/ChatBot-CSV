@@ -34,7 +34,7 @@ Sidebar = sidebar_module.Sidebar
 
 def init():
     load_dotenv()
-    st.set_page_config(layout="wide", page_icon="💬", page_title="ChatBot-CSV")
+    st.set_page_config(layout="wide", page_icon="💬", page_title="MSME-Research-tools-CSV")
 
 def main():
 
